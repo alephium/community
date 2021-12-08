@@ -2,6 +2,6 @@ By design Alephium is public, open and decentralized. However, true decentraliza
 
 This repository will agregate all relevants ressources for community contribution to the project. 
 
-### [Community Reward & development Bounty Program](https://github.com/alephium/community/blob/master/CommunityRewardProgram.md)
+### [Community Reward & Development Bounty Program](https://github.com/alephium/community/blob/master/Bounty&RewardProgram.md)
 
 ### [Open Bounties - Community Support Welcomed](https://github.com/alephium/community/blob/master/bounties.md)
