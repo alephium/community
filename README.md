@@ -4,4 +4,6 @@ This repository will aggregate all relevant resources for community contribution
 
 ### [Community Reward & Development Bounty Program](https://github.com/alephium/community/blob/master/Bounty&RewardProgram.md)
 
+### [Reward & Development Bounty Program Rules](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
+
 ### [Open Bounties - Community Support Welcomed](https://github.com/alephium/community/blob/master/bounties.md)
