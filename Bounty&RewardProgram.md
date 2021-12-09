@@ -9,20 +9,20 @@ Some of our community’s contributions can be found in the [Awesome Alephium re
 ## Development Rewards & Bounties
 
 At this stage of the project, development is the cornerstone of Alephium’s success, therefore development rewards & bounties are not capped. 
-Rewards are assigned to Github Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). In addition, we’ll add “bounty” topics or tasks where community support is welcomed in the Community repository. 
-Generally, Pull requests are rewarded once merged, but issues can be rewarded at creation. Each reward is assessed individually and may differ from the general rule. 
+Rewards are assigned to GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). In addition, we’ll add “bounty” topics or tasks where community support is welcomed in the Community repository. 
+Generally, Pull Requests are rewarded once merged, but issues can be rewarded at creation. Each reward is assessed individually and may differ from the general rule. 
 
 ## Engagement Rewards
-Community engagement is very important and can consist of many things, big or small. Documentation is one example, sustained quality technical-support in the discord is another. The total monthly reward amount that is distributed is capped and recompenses the community members with the most helpful contributions. 
+Community engagement is very important and can consist of many things, big or small. Documentation is one example, sustained quality technical support on Discord is another. The total monthly reward amount that is distributed is capped and recompenses the community members with the most helpful contributions. 
 
 ## Special "Events" Rewards
-These rewards are linked to specific “events” as well as unforeseen interactions leading to some kind of remarkable progress or positive impact on the project. These rewards will also be distributed at the end of the month in which the event took place. A past example of this could be providing great assistance or feedback during one of our on-line testnet install events. Another example could be running a miner on the testnet for a sustained period of time. 
+These rewards are linked to specific “events” as well as unforeseen interactions leading to some kind of remarkable progress or positive impact on the project. These rewards will also be distributed at the end of the month in which the event took place. A past example of this could be providing great assistance or feedback during one of our online testnet install events. Another example could be running a miner on the testnet for a sustained period of time. 
 
 # Community Reward Program Rules
-Of course this program needs to be governed by a set of rules. For your convenience we publish them here but you will also be able to find them in this GitHub repository. These rules may be subject to change in the near or distant future and read as the following:
+Of course, this program needs to be governed by a set of rules. For your convenience, we publish them here but you will also be able to find them in this GitHub repository. These rules may be subject to change in the near or distant future and read as the following:
 
 This is an experimental and discretionary rewards program for our active Alephium community to encourage and reward those who are contributing and helping to improve the Alephium platform, ecosystem and community. It is not a competition. 
-Alephium considers a number of variables in determining rewards. Determinations of eligibility, score and all terms related to a reward are at the sole and final discretion of Alephium.
+Alephium considers a number of variables in determining rewards. Determinations of eligibility, score, and all terms related to a reward are at the sole and final discretion of Alephium.
 
 - Participants are responsible for all taxes. 
 - All rewards are subject to applicable law. 
