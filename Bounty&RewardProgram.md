@@ -17,3 +17,5 @@ Community engagement is very important and can consist of many things, big or sm
 
 ## Special "Events" Rewards
 These rewards are linked to specific “events” as well as unforeseen interactions leading to some kind of remarkable progress or positive impact on the project. These rewards will also be distributed at the end of the month in which the event took place. A past example of this could be providing great assistance or feedback during one of our online testnet install events. Another example could be running a miner on the testnet for a sustained period of time. 
+
+# [Reward & Development Bounty Program Rules](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
