@@ -1,5 +1,5 @@
 # Community Reward Program Rules
-Of course, this program needs to be governed by a set of rules. These rules may be subject to change in the near or distant future and read as the following:
+These rules may be subject to change in the near or distant future and read as the following:
 
 This is an experimental and discretionary rewards program for our active Alephium community to encourage and reward those who are contributing and helping to improve the Alephium platform, ecosystem and community. It is not a competition. 
 Alephium considers a number of variables in determining rewards. Determinations of eligibility, score, and all terms related to a reward are at the sole and final discretion of Alephium.
