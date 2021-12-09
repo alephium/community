@@ -16,5 +16,5 @@ Alephium reserves the right to discontinue the Program at any time without notic
 ## Eligibility Criteria
 Are not eligible for rewards:
 - Individuals who have not reached legal majority age in their country of residence, 
-- Individuals on sanctions lists or who are in countries listed on SECO’s sanctions list or where crypto-assets have been banned, 
+- Individuals on sanctions lists or who are in countries listed on [SECO’s sanctions list](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) or where crypto-assets have been banned, 
 - Alephium & affiliated entities employees, consultants and their families.
