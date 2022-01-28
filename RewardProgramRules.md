@@ -1,7 +1,7 @@
 # Community Reward Program Rules
 These rules may be subject to change in the near or distant future and read as the following:
 
-This is an experimental and discretionary rewards program for our active Alephium community to encourage and reward those who are contributing and helping to improve the Alephium platform, ecosystem and community. It is not a competition. 
+This is an experimental and discretionary rewards program for our active Alephium community to encourage and reward those who are contributing and helping to improve the Alephium platform, ecosystem and community. 
 Alephium considers a number of variables in determining rewards. Determinations of eligibility, score, and all terms related to a reward are at the sole and final discretion of Alephium.
 
 - Participants are responsible for all taxes. 
