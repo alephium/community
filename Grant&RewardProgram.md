@@ -24,10 +24,13 @@ Please complete [this form](https://forms.gle/PDJZwxAVKGRBEgdw9) with all info, 
 
 ### Community Rewards
 
-We are always amazed at the support we’re getting from our community, whether it’s in development, community services, awareness and promotion! Help us see your work, and within our possibilities, we’ll reward some of you every month! We support three types of contributions: Development Contributions and Engagement Contributions. \
- \
-<span style="text-decoration:underline;">How are Development Contributions rewarded?</span> We love dev contributions! Rewards are assigned to GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). You do not need to apply, we’ll select the awardees directly from GitHub. \
- \
-<span style="text-decoration:underline;">How are Engagement Contributions rewarded?</span> You don’t need to be technical or a dev to be rewarded. There are many other contributions we value too: community engagement, translations of documentation, blog post explainers, podcasts, videos, visuals and others! If you did something awesome with/for Alephium, let us know through [this form](https://forms.gle/dVCFvn6PuP56oU3K8)!
+We are always amazed at the support we’re getting from our community, whether it’s in development, community services, awareness and promotion! Help us see your work, and within our possibilities, we’ll reward some of you every month! We support three types of contributions: Development Contributions and Engagement Contributions.
 
-<span style="text-decoration:underline;">How do rewards work and what are the rules?</span> Each month, we review internally all contributions submitted and allocate rewards. Each contribution is assessed individually. Rewards are paid in ALPH. [Find more info and the rules here.](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
+#### How are Development Contributions rewarded?
+We love dev contributions! Rewards are assigned to GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). You do not need to apply, we’ll select the awardees directly from GitHub.
+
+#### How are Engagement Contributions rewarded?
+You don’t need to be technical or a dev to be rewarded. There are many other contributions we value too: community engagement, translations of documentation, blog post explainers, podcasts, videos, visuals and others! If you did something awesome with/for Alephium, let us know through [this form](https://forms.gle/dVCFvn6PuP56oU3K8)!
+
+#### How do rewards work and what are the rules?
+Each month, we review internally all contributions submitted and allocate rewards. Each contribution is assessed individually. Rewards are paid in ALPH. [Find more info and the rules here.](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
