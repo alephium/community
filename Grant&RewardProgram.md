@@ -1,25 +1,36 @@
-# Community Grants & Reward Program
+# CONTRIBUTE
+## Community Grants & Reward Program
 
-We’d like to introduce you to the first iteration of the Alephium Community reward program. 
-It is composed of 3 pillars: Development Bounties, Engagement Rewards & Special “Events” rewards.
-Rewards are meant to be distributed at the end of each month from the Ecosystem Development allocation. Although the exact moment of each distribution may vary according to workload. The project is young and a lot has to be learned by doing, one thing that is certain is that such a program needs a certain degree of dynamic and will evolve through time. The first distribution will happen this month. 
+The Alephium Community Grants & Reward Program is meant to encourage and incentivize contributions to the Alephium project and its ecosystem. Some of our community’s existing contributions can be found in the [Awesome Alephium repository](https://github.com/alephium/awesome-alephium) and you are welcome to add yours!
 
-Some of our community’s contributions can be found in the [Awesome Alephium repository](https://github.com/alephium/awesome-alephium), you are welcome to add yours!
 
-## Grants
+### Grants
 
-Alephium is only as good as its ecosystem. In order to support the development of 3rd-party dApps and other inititiatives contributing to the growth of the Alephium Ecosystem, we offer the possibility to request grants. To apply for a grant, please send a fully detailed proposal to [grant@alephium.org](grant@alephium.org).
+In order to support the development of and growth of the Alephium Ecosystem, we offer the possibility to request grants. We are open to funding anything that improves the Alephium ecosystem, so if you or your team are developing a project leveraging Alephium you can apply for a grant and we’ll be happy to help fund your work. 
 
-## Development Rewards & Bounties
+#### What kind of projects do you fund?
+We love DeFi dApps, NFT platforms, decentralized services, integrations, hardware, etc…
 
-At this stage of the project, development is the cornerstone of Alephium’s success, therefore development rewards & bounties are not capped. 
-Rewards are assigned to GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). In addition, we’ll add “bounty” topics or tasks where community support is welcomed in the Community repository. 
-Generally, Pull Requests are rewarded once merged, but issues can be rewarded at creation. Each reward is assessed individually and may differ from the general rule. 
+#### I have an Idea, how do I apply?
+Please complete [this form](https://forms.gle/PDJZwxAVKGRBEgdw9) with all info, and we’ll get back to you. Give us a bit of time too as we solicit the relevant parties inside Alephium. 
 
-## Engagement Rewards
-Community engagement is very important and can consist of many things, big or small. Documentation is one example, sustained quality technical support on Discord is another. The total monthly reward amount that is distributed is capped and recompenses the community members with the most helpful contributions. 
+#### What are the rules? How does it work?
+1. Submit your application & documentation[^1]
+2. We will reach out for interviews if your application is deemed a good fit
+3. We will notify you if your application is accepted (or not)
+4. Grantees onboarded!
 
-## Special "Events" Rewards
-These rewards are linked to specific “events” as well as unforeseen interactions leading to some kind of remarkable progress or positive impact on the project. These rewards will also be distributed at the end of the month in which the event took place. A past example of this could be providing great assistance or feedback during one of our online testnet install events. Another example could be running a miner on the testnet for a sustained period of time. 
+[^1]: Please submit one document with the full proposal. Your submission document  should include at minimum: your team, what you are looking to achieve, how you plan on achieving it, the project timeframe, the grant value desired and milestones). 
 
-# [Reward & Development Bounty Program Rules](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
+### Community Rewards
+
+We are always amazed at the support we’re getting from our community, whether it’s in development, community services, awareness and promotion! Help us see your work, and within our possibilities, we’ll reward some of you every month! We support three types of contributions: Development Contributions and Engagement Contributions.
+
+#### How are Development Contributions rewarded?
+We love dev contributions! Rewards are assigned to GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). You do not need to apply, we’ll select the awardees directly from GitHub.
+
+#### How are Engagement Contributions rewarded?
+You don’t need to be technical or a dev to be rewarded. There are many other contributions we value too: community engagement, translations of documentation, blog post explainers, podcasts, videos, visuals and others! If you did something awesome with/for Alephium, let us know through [this form](https://forms.gle/dVCFvn6PuP56oU3K8)!
+
+#### How do rewards work and what are the rules?
+Each month, we review internally all contributions submitted and allocate rewards. Each contribution is assessed individually. Rewards are paid in ALPH. [Find more info and the rules here.](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
