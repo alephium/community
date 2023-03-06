@@ -24,7 +24,7 @@ Please complete [this form](https://forms.gle/PDJZwxAVKGRBEgdw9) with all info, 
 
 ### Community Rewards
 
-We are always amazed at the support we’re getting from our community, whether it’s in development, community services, awareness and promotion! Help us see your work, and within our possibilities, we’ll reward some of you every month! We support three types of contributions: Development Contributions and Engagement Contributions.
+We are always amazed at the support we’re getting from our community, whether it’s in development, community services, awareness and promotion! Help us see your work, and within our possibilities, we’ll reward some of you every month! We support two types of contributions: Development Contributions and Engagement Contributions.
 
 #### How are Development Contributions rewarded?
 We love dev contributions! Rewards are assigned to GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). You do not need to apply, we’ll select the awardees directly from GitHub.
