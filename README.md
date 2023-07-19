@@ -4,6 +4,6 @@ This repository will aggregate all relevant resources for community contribution
 
 ### [Grants & Rewards](https://github.com/alephium/community/blob/master/Grant%26RewardProgram.md)
 
-### [Reward & Development Bounty Program Rules](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
+### [Grants & Rewards Program Rules](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
 
 
