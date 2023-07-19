@@ -4,6 +4,8 @@ This repository will aggregate all relevant resources for community contribution
 
 ### [Grants & Rewards](https://github.com/alephium/community/blob/master/Grant%26RewardProgram.md)
 
+### [Bug Bounty & Responsible Disclosure](https://github.com/alephium/community/blob/master/BugBounty.md)
+
 ### [Grant & Reward Program Rules](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
 
 
