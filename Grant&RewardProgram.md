@@ -1,7 +1,7 @@
 # CONTRIBUTE
 ## Community Grants & Reward Program
 
-The Alephium Community Grants & Reward Program is meant to encourage and incentivize contributions to the Alephium project and its ecosystem. Some of our community’s existing contributions can be found in the [Awesome Alephium repository](https://github.com/alephium/awesome-alephium) and you are welcome to add yours!
+The Alephium Community Grants & Reward Program is meant to encourage and incentivize contributions to the Alephium project and its ecosystem. Some of our community’s existing contributions can be found in the [Awesome Alephium repository](https://github.com/alephium/awesome-alephium) and [ALPH.land](https://www.alph.land/) and you are welcome to add yours!
 
 
 ### Grants
