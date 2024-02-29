@@ -7,17 +7,14 @@ Alephium places utmost importance on the security of its network and infrastruct
 This Program encompasses bugs and vulnerabilities across the entire operational Alephium environment. This scope extends to the GitHub repositories mentioned below:
 
 - [Alephium](https://github.com/alephium/alephium)
-- [Desktop Wallet](https://github.com/alephium/desktop-wallet)
+- [Frontend](https://github.com/alephium/alephium-frontend)
 - [Extension Wallet](https://github.com/alephium/extension-wallet)
-- [Mobile Wallet](https://github.com/alephium/mobile-wallet)
 - [Bridge](https://github.com/alephium/wormhole-fork)
 - [Ledger Integration](https://github.com/alephium/ledger-alephium)
 - [DEX Proof of Concept](https://github.com/alephium/alephium-dex)
 - [NFT Marketplace Proof of Concept](https://github.com/alephium/alephium-nft)
 - [Web3 SDK](https://github.com/alephium/alephium-web3)
-- [JS/TS SDK](https://github.com/alephium/js-sdk)
 - [Explorer Backend](https://github.com/alephium/explorer-backend)
-- [Explorer](https://github.com/alephium/explorer)
 - [Website](https://github.com/alephium/www)
 
 *Nonetheless, if a bug in any Alephium-related repository is discovered, even if it doesn't fall within the ones listed, that puts users’ funds at risk, the team will contemplate the issue as part of the bounty's scope.*
