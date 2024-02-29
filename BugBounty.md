@@ -10,7 +10,7 @@ This Program encompasses bugs and vulnerabilities across the entire operational 
 - [Desktop Wallet](https://github.com/alephium/desktop-wallet)
 - [Extension Wallet](https://github.com/alephium/extension-wallet)
 - [Mobile Wallet](https://github.com/alephium/mobile-wallet)
-- [Bridge] (https://github.com/alephium/wormhole-fork)
+- [Bridge](https://github.com/alephium/wormhole-fork)
 - [Ledger Integration](https://github.com/alephium/ledger-alephium)
 - [DEX Proof of Concept](https://github.com/alephium/alephium-dex)
 - [NFT Marketplace Proof of Concept](https://github.com/alephium/alephium-nft)
