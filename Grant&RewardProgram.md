@@ -12,7 +12,7 @@ In order to support the development of and growth of the Alephium Ecosystem, we 
 We love DeFi dApps, NFT platforms, decentralized services, integrations, hardware, etc…
 
 #### I have an Idea, how do I apply?
-Please complete [this form](https://forms.gle/PDJZwxAVKGRBEgdw9) with all info, and we’ll get back to you. Give us a bit of time too as we solicit the relevant parties inside Alephium. 
+Please complete the relevant form with all the necessary information for your specific area ([Profit-Oriented Applications](https://tally.so/r/mZWdzy), [Infrastructure & Core Tooling](https://tally.so/r/3lg5vV), [Developer Experience & Education](https://tally.so/r/nP4grx), or [Community & Ecosystem Growth](https://tally.so/r/mDbYWE)), and we'll get back to you. Please allow some time as we consult with the relevant parties within Alephium. 
 
 #### What are the rules? How does it work?
 1. Submit your application & documentation[^1]
