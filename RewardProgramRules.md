@@ -8,7 +8,7 @@ Alephium considers a number of variables in determining grants and rewards. Dete
 - All rewards and grants are subject to applicable law. 
 - Participants' contributions must not violate any law or compromise any data that is not theirs.
 - Participants take part in this program at their own risk and expense. 
-- Participants will be asked to sign a simple contract with their name and physical address before receiving the reward or grant. Some participants may be asked to complete further KYC procedures at the discretion of Alephium. Failure to do so will result in forfeiture of the reward or grant.
+- in accordance with applicable anti-money laundering (AML) and sanction screening regulations, Alephium may require verification of the participant’s identity and background. This may include the collection and processing of personal data for identification and compliance purposes. The Recipient will be notified of any such requirements and must provide the necessary information in a timely manner. Failure to do so may result in delay or refusal of the reward or Grant.
 - Participants are responsible for notifying Alephium of any changes to their contact information. Failure to do so may lead to the forfeiture of any rewards or grants participants may become eligible for and receive.
 
 Alephium reserves the right to modify or discontinue the Program at any time without notice.
