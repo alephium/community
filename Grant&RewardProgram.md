@@ -12,6 +12,7 @@ We love DeFi dApps, NFT platforms, decentralized services, integrations, hardwar
 
 #### I have an Idea, how do I apply?
 Please complete the relevant form with all the necessary information for your specific area ([Profit-Oriented Applications](https://tally.so/r/mZWdzy), [Infrastructure & Core Tooling](https://tally.so/r/3lg5vV), [Developer Experience & Education](https://tally.so/r/nP4grx), or [Community & Ecosystem Growth](https://tally.so/r/mDbYWE)), and we'll get back to you. Please allow some time as we consult with the relevant parties within Alephium. 
+Additional funding sources including ecosystem grant programs are available at [alephium.org/grants](https://alephium.org/grants/).
 
 #### What are the rules? How does it work?
 1. Submit your application & documentation[^1]
