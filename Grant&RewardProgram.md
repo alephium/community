@@ -5,13 +5,14 @@ The Alephium Community Grants & Reward Program is meant to encourage and incenti
 
 ### Grants
 
-In order to support the development of and growth of the Alephium Ecosystem, we offer the possibility to request grants. We are open to funding anything that improves the Alephium ecosystem, so if you or your team are developing a project leveraging Alephium you can apply for a grant and we’ll be happy to help fund your work. 
+In order to support the development and growth of the Alephium Ecosystem, we offer the possibility to request grants. We are open to funding anything that improves the Alephium ecosystem, so if you or your team are developing a project leveraging Alephium you can apply for a grant and we’ll be happy to help fund your work. 
 
 #### What kind of projects do you fund?
 We love DeFi dApps, NFT platforms, decentralized services, integrations, hardware, etc…
 
 #### I have an Idea, how do I apply?
 Please complete the relevant form with all the necessary information for your specific area ([Profit-Oriented Applications](https://tally.so/r/mZWdzy), [Infrastructure & Core Tooling](https://tally.so/r/3lg5vV), [Developer Experience & Education](https://tally.so/r/nP4grx), or [Community & Ecosystem Growth](https://tally.so/r/mDbYWE)), and we'll get back to you. Please allow some time as we consult with the relevant parties within Alephium. 
+
 Additional funding sources including ecosystem grant programs are available at [alephium.org/grants](https://alephium.org/grants/).
 
 #### What are the rules? How does it work?
