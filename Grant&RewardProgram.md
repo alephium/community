@@ -26,7 +26,9 @@ Additional funding sources including ecosystem grant programs are available at [
 ### Development Contributions
 
 #### How are Development Contributions rewarded?
-We love dev contributions! Rewards are assigned to GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). You do not need to apply, we’ll select the awardees directly from GitHub.
+We love dev contributions! Rewards are considered for GitHub Issues and Pull Requests proposed by community members in any of the project [repositories](https://github.com/orgs/alephium/repositories). You do not need to apply, we’ll select the awardees directly from GitHub.
+
+Per our [Contribution Policy](https://github.com/alephium/community/blob/master/ContributionPolicy.md), pull requests from contributors we don't already know are not merged or run as submitted. This doesn't affect your reward eligibility: if your PR identifies a genuine fix or improvement, a maintainer will independently reproduce and verify it, credit you as the original author, and consider it for a reward the same as a merged PR. Issues are unaffected by this change and continue to be rewarded as before.
 
 #### How do rewards work and what are the rules?
-Each month, we review internally all contributions submitted and allocate rewards. Each contribution is assessed individually. Rewards are paid in ALPH. [Find more info and the rules here.](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
+Each month, we review internally all contributions submitted and allocate rewards. Each contribution is assessed on the underlying idea or fix, regardless of whether the original branch was merged. Rewards are paid in ALPH. [Find more info and the rules here.](https://github.com/alephium/community/blob/master/RewardProgramRules.md)
