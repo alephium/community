@@ -1,5 +1,7 @@
 # Bug Bounty & Responsible Disclosure
 
+**Update:** Due to the high volume of AI-assisted attacks and analysis, the reward program is currently suspended. Voluntary vulnerability reports are still very welcome and greatly appreciated.
+
 ## Update on the Alephium Bug Bounty Program
 
 As AI-assisted security research becomes increasingly widespread, the volume and nature of bug reports across the software industry are changing rapidly. High-quality vulnerability discovery is becoming more accessible, and this creates both opportunities and new operational challenges for open-source projects like Alephium.
